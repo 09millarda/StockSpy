@@ -1,0 +1,11 @@
+E:\Projects\StockSpy\StockSpy\bin\Debug\netcoreapp2.0\StockSpy.deps.json
+E:\Projects\StockSpy\StockSpy\bin\Debug\netcoreapp2.0\StockSpy.runtimeconfig.json
+E:\Projects\StockSpy\StockSpy\bin\Debug\netcoreapp2.0\StockSpy.runtimeconfig.dev.json
+E:\Projects\StockSpy\StockSpy\bin\Debug\netcoreapp2.0\StockSpy.dll
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.csprojResolveAssemblyReference.cache
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.csproj.CoreCompileInputs.cache
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.AssemblyInfoInputs.cache
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.AssemblyInfo.cs
+E:\Projects\StockSpy\StockSpy\bin\Debug\netcoreapp2.0\StockSpy.pdb
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.dll
+E:\Projects\StockSpy\StockSpy\obj\Debug\netcoreapp2.0\StockSpy.pdb
